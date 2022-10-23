@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+nav {
+    background-color: #222222;
+    color: white;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    color: inherit;
+}
+.c-pointer {
+    cursor: pointer;
+}
+td {
+    padding: 10px;
+}
+.form-check-input:checked {
+    background-color: red !important;
+    border-color: red !important;
+}
+.tr2:nth-child(odd) {
+    background-color: gray !important;
+}
